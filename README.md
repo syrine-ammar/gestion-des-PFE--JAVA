@@ -1,11 +1,33 @@
 # gestion-des-PFE--JAVA
-# PFE Management Platform - ISIMm  
-*A Java Swing application for managing final-year projects (PFE) at our University.*  
+# PFE Management Platform - 
+💻✨ **Final Year Project Management Application – Java Swing Mini Project**
+
+As part of my studies at the Higher Institute of Computer Science and Mathematics of Monastir (ISIMM), I developed a complete application using Java Swing to manage final-year student projects (PFE).
+
+---
+
+### 📌 Objective:
+Design a user-friendly interface to manage and navigate all data related to final-year projects, including:
+
+- 🧑‍🎓 Students  
+- 👨‍🏫 Teachers  
+- 🧑‍⚖️ Examiners & Jury Presidents  
+- 🕵️ Rapporteurs & Supervisors  
+- 📋 Project descriptions and follow-up  
+
+---
+
+### 🧩 Main Features:
+- 🔐 **Login & Registration System**
+- 🏠 **Main Dashboard:** Browse or search project-related data  
+- ➕➖📝 **Full CRUD Functionality:** Add, update, delete entries in all tables  
+- 🔎 **Smart Search:** Filter data based on custom criteria for easy access  
 
 ## 🖥️ Screenshots  
-| Main Window | Login Screen |  
-|-------------|--------------|  
-| ![Main Window](images/main_window.png) | ![Login](images/login.png) |  
+| Main Window | Login Screen |  choisir table 
+|-------------|--------------|--------------|  
+| ![Main Window](images/main1.png) | ![Login](images/login.png) | ![Main Window](images/main2.png) |
+
 
 ## 🔧 Features  
 - **Role-based access**: Admins, students, and professors.  
